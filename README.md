@@ -1,1 +1,1 @@
-This repo has the python basics with assignemnts & solutions
+This repo has the python basics assignemnts & solutions
